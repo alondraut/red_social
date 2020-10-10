@@ -1,0 +1,114 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color:#66ccffcf;
+}
+h1 {
+    
+    font-size: 5em;
+    font-family:chiller;
+    text-decoration:double;
+    
+    font-weight: bold;
+    color: #0d3d5d;
+}
+.form-register {
+  width: 400px;
+  background: #c9f5f4fa;
+  padding: 10px;
+  margin: auto;
+  margin-top: 20px;
+  border-radius: 4px;
+  font-family: 'calibri';
+  color: #000000;
+  box-shadow: 7px 13px 37px #1219ecc9;
+  text-align: center;
+}
+
+.form-register h4 {
+  font-size: 22px;
+  margin-bottom: 20px;
+}
+
+.controls {
+  width: 100%;
+  background: #fdfeff;
+  padding: 10px;
+  border-radius:122px;
+  margin-bottom: 16px;
+  border: 1px solid #2c87b5;
+  font-family: 'calibri';
+  font-size: 18px;
+  color: #1f53c5;
+
+}
+.fecha {
+
+ font-family: 'calibri';
+ color: #848484;
+}
+.date {
+-webkit-writing-mode: horizontal-tb !important;
+    text-rendering: auto;
+    
+    color: #8e7c7c;
+    letter-spacing: normal;
+    word-spacing: normal;
+    text-transform: none;
+    text-indent: 0px;
+    text-shadow: none;
+    display: inline-block;
+    text-align: start;
+    appearance: textfield;
+    background-color:#ffffff;
+    -webkit-rtl-ordering: logical;
+    cursor: text;
+    margin: 0em;
+    font: 400 13.3333px Arial;
+    padding: 14px 11px;
+    border-width: 1px;
+    border-style: inset;
+    border-color:#6ebbe2e6 ;
+    border-image: initial;
+    border-radius: 23px;
+}
+.sex
+ {
+
+ font-family: 'calibri';
+ color: #848484;
+
+}
+.form-register p {
+  height: 40px;
+  text-align: center;
+  font-size: 18px;
+  line-height: 40px;
+}
+
+.form-register a {
+  color: #848484;
+  text-decoration: none;
+
+}
+
+.form-register a:hover {
+  color: #FA5858;
+  text-decoration: underline;
+}
+
+.form-register .botons {
+  width: 100%;
+  background: #1f53c5;
+  border: none;
+  border-radius:122px;
+  padding: 12px;
+  color: white;
+  margin: 16px 0;
+  font-size: 16px;
+}
+
